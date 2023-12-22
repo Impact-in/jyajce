@@ -54,7 +54,7 @@ function register() {
                 year: year,
                 whatsapp_no: whatsapp,
                 last_login: Date.now(),
-                friend_name: "wating to update the list"
+                friend_name: "waiting to update the list"
             }
 
             // Push to Firebase Database
