@@ -156,9 +156,10 @@ input {
     height: 400px;
     width: 400px;
     border-radius: 10px;
-    background: red;
     font-size: 20px;
-    color:white;
+    color: white;
+    border-radius: 10px;
+    background: red;
 }
 
 .friend {
@@ -167,4 +168,5 @@ input {
 .showdata{
 
     font-size:16px;
+    color: white;
 }
