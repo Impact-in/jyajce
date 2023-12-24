@@ -156,8 +156,9 @@ input {
     height: 400px;
     width: 400px;
     border-radius: 10px;
-    background: white;
+    background: red;
     font-size: 20px;
+    color:white;
 }
 
 .friend {
